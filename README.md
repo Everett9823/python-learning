@@ -14,6 +14,7 @@ A basic implementation of Rock Paper Scissors where the user plays against the c
 ## Concepts Used
 
 - Variables
+- Functions
 - Conditionals
 - Loops
 - User input
