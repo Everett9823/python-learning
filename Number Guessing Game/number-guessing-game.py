@@ -3,9 +3,9 @@ import random
 
 def choose_difficulty():
     print("\nChoose difficulty:")
-    print("1. Easy (1–50, 10 tries)")
-    print("2. Medium (1–100, 7 tries)")
-    print("3. Hard (1–200, 5 tries)")
+    print("1. Easy (1,50, 10 tries)")
+    print("2. Medium (1,100, 7 tries)")
+    print("3. Hard (1,200, 5 tries)")
 
     while True:
         choice = input("Enter 1, 2, or 3: ").strip()
