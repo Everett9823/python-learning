@@ -1,5 +1,5 @@
 import random
-import time
+
 
 def choose_difficulty():
     print("\nChoose difficulty:")
