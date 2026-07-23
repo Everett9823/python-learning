@@ -18,5 +18,7 @@ A simple Python terminal game where you play Rock Paper Scissors against the com
 ## 🎮 How to Play
 
 1. Run the Python file:
+
    ```bash
+   
    python rock-paper-scissors.py
